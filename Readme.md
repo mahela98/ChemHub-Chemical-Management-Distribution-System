@@ -17,7 +17,7 @@ A Chemical Management & Distribution System is a software system that helps garm
 
 #### Live Website URL
 
-    https://emvsystem.azurewebsites.net/
+    https://chemicalmanagementsystem.azurewebsites.net
 
 
 
